@@ -1,4 +1,4 @@
-package com.deiiviit.leetcode_kotlin.reto00_twoSum
+package com.deiiviit.leetcode_kotlin.reto00_two_sum
 
 class TwoSum {
     fun twoSum(nums: IntArray, target: Int): IntArray {
